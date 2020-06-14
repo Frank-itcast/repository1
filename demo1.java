@@ -4,3 +4,4 @@ public class HelloPrint{
 		System.out.println("I love Itcast,I love Heima,I love China");
 	}
 }
+this is a good file
