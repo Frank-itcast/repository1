@@ -1,6 +1,6 @@
 public class HelloPrint{
 	
 	public static void main(String[] args){
-		System.out.println("I love Itcast,I love Heima");
+		System.out.println("I love Itcast,I love Heima,I love China");
 	}
 }
